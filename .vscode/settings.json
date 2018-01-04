@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/projekt86/.platformio/penv/bin:/Users/projekt86/Library/Android/ndk:/Users/projekt86/mongodb/bin:/Users/projekt86/go/bin:/Users/projekt86/.composer/vendor/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Applications/Wireshark.app/Contents/MacOS:/Users/projekt86/esp/xtensa-esp32-elf/bin:/usr/local/go/bin:/Users/projekt86/protoc-3.3.0-osx-x86_64/bin:/Users/projekt86/apache-maven-3.5.0/bin"
+    }
+}

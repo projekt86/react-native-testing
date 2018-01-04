@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`handles LOGGED_OUT action 1`] = `
+Object {
+  "error": null,
+  "id": null,
+  "isLoading": false,
+  "isLoggedIn": false,
+  "name": null,
+}
+`;
+
+exports[`returns the same state on unhandled action  1`] = `
+Object {
+  "error": null,
+  "id": null,
+  "isLoading": false,
+  "isLoggedIn": false,
+  "name": null,
+}
+`;
