@@ -11,6 +11,9 @@
 # Detox e2e tests
 [![Demo Detox e2e tests](https://j.gifs.com/yrJ6PE.gif)](https://www.youtube.com/watch?v=N9scGlPvxnM)
 
+## License
+
+CountPages uses the MIT license. See [LICENSE](https://github.com/projekt86/react-native-testing/blob/master/LICENSE) for more details.
 
 
 
