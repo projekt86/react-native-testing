@@ -13,7 +13,7 @@
 
 ## License
 
-CountPages uses the MIT license. See [LICENSE](https://github.com/projekt86/react-native-testing/blob/master/LICENSE) for more details.
+MIT license. See [LICENSE](https://github.com/projekt86/react-native-testing/blob/master/LICENSE) for more details.
 
 
 
