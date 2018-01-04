@@ -9,7 +9,8 @@
 * [Detox]
 
 # Detox e2e tests
-[![Demo Detox e2e tests](https://j.gifs.com/yrJ6PE.gif)](https://www.youtube.com/watch?v=N9scGlPvxnM)
+[Demo Detox e2e tests](https://www.youtube.com/watch?v=N9scGlPvxnM)
+![](https://j.gifs.com/yrJ6PE.gif)
 
 ## License
 
