@@ -6,22 +6,25 @@
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest --verbose",
     "lint": "eslint .",
-    "prettier": "prettier --write '**/*.js'"
+    "prettier": "prettier --write '**/*.js'",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.18.1",
     "prop-types": "^15.6.0",
     "react": "16.0.0",
-    "react-dom": "^16.2.0",
-    "react-native": "0.51.0",
+    "react-dom": "^16.2.1",
+    "react-native": "0.60.0",
     "react-native-elements": "^0.18.5",
-    "react-native-vector-icons": "^4.4.3",
-    "react-navigation": "^1.0.0-beta.22",
+    "react-native-vector-icons": "^6.4.1",
+    "react-navigation": "^1.0.0",
     "react-redux": "^5.0.6",
     "redux": "^3.7.2",
     "redux-logger": "^3.0.6",
     "redux-persist": "^5.4.0",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.2.0",
+    "snyk": "^1.236.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -65,5 +68,6 @@
         "name": "iPhone 8 Plus"
       }
     }
-  }
+  },
+  "snyk": true
 }
