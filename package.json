@@ -8,7 +8,7 @@
     "lint": "eslint .",
     "prettier": "prettier --write '**/*.js'",
     "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "prepublish": "yarn run snyk-protect"
   },
   "dependencies": {
     "axios": "^0.18.1",
@@ -24,7 +24,7 @@
     "redux-logger": "^3.0.6",
     "redux-persist": "^5.4.0",
     "redux-thunk": "^2.2.0",
-    "snyk": "^1.236.0"
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
